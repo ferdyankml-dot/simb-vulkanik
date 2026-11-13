@@ -44,10 +44,11 @@
                         <div class="card-body">
                             <h5 class="card-title">🔄 PRA-BENCANA</h5>
                             <ul>
-                                <li>Pemantauan aktivitas vulkanik</li>
-                                <li>Sistem peringatan dini</li>
-                                <li>Penyusunan peta rawan bencana</li>
-                                <li>Simulasi evakuasi</li>
+                                <li>Memperhatikan arahan Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) terkait dengan perkembangan aktivitas gunung api.</li>
+                                <li>Persiapkan masker dan kacamata pelindung untuk mengantisipasi debu vulkanik.</li>
+                                <li>Mengetahui jalur evakuasi dan shelter yang telah disiapkan oleh pihak berwenang</li>
+                                <li>Mempersiapkan skenario evakuasi lain apabila dampak letusan meluas di luar prediksi ahli.</li>
+                                <li>Persiapkan dukungan logistik seperti makanan siap saji dan minuman, lampu senter dan baterai cadangan, uang tunai secukupnya, serta obat-obatan pribadi</li>
                             </ul>
                         </div>
                     </div>
@@ -57,10 +58,9 @@
                         <div class="card-body">
                             <h5 class="card-title">🚨 SAAT BENCANA</h5>
                             <ul>
-                                <li>Evakuasi segera</li>
-                                <li>Pendirian posko darurat</li>
-                                <li>Distribusi bantuan</li>
-                                <li>Koordinasi tim SAR</li>
+                                <li>Pastikan anda sudah berada di shelter atau tempat lain yang aman dari dampak letusan</li>
+                                <li>Gunakan masker dan kacamata pelindung</li>
+                                <li>Selalu memperhatikan arahan dari pihak berwenang selama berada di shelter.</li>
                             </ul>
                         </div>
                     </div>
@@ -70,10 +70,10 @@
                         <div class="card-body">
                             <h5 class="card-title">🏥 PASCA-BENCANA</h5>
                             <ul>
-                                <li>Rehabilitasi korban</li>
-                                <li>Pemulihan infrastruktur</li>
-                                <li>Pemulihan ekonomi</li>
-                                <li>Evaluasi sistem</li>
+                                <li>Pastikan kebutuhan dasar dan pendampingan anak serta remaja terpenuhi selama di shelter</li>
+                                <li>Gunakan masker dan kacamata pelindung saat berada di wilayah terdampak abu vulkanik</li>
+                                <li>Pantau informasi resmi dari pihak berwenang dan hindari informasi yang belum terverifikasi</li>
+                                <li>Waspadai banjir lahar dingin saat hujan deras dengan menjauhi sungai dan memperhatikan arah alirannya</li>
                             </ul>
                         </div>
                     </div>
