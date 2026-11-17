@@ -390,7 +390,7 @@ $qa_result = $conn->query($qa_query);
                 <div class="col-md-4">
                     <h5>Anggota</h5>
                     <ul class="list-unstyled">
-                        <li>Risky Ramadhan</li>
+                        <li>firmansyah maylano rahmawan</li>
                         <li>Eileen Valascha</li>
                         <li>Ahmad Iqbal</li>
                         <li>Muhammad Zikri</li>
