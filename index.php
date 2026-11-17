@@ -104,7 +104,7 @@ $qa_result = $conn->query($qa_query);
                 <div class="col-12">
                     <div class="d-flex justify-content-between align-items-start mb-2">
                         <h4 class="mb-0"><i class="fas fa-newspaper me-2"></i>Berita Terbaru</h4>
-                        <small class="text-muted">Sumber: berbagai portal berita (contoh)</small>
+                        <small class="text-muted">Sumber: berbagai portal berita </small>
                     </div>
                     <div class="news-scroller-wrapper">
                         <div class="news-scroller" id="newsScroller">
